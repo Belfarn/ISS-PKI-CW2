@@ -1,0 +1,3 @@
+ifconfig eth0 hw ether 00:00:00:00:23
+ifconfig eth0 213.1.133.98/26
+route add default gw 213.1.133.97
